@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956406982456",
+    "project_id": "mysigin-fc38a",
+    "storage_bucket": "mysigin-fc38a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956406982456:android:ed53bcdc79ffa8e127c3cd",
+        "android_client_info": {
+          "package_name": "com.example.signin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956406982456-gt2h8dq3mhe2fatugamc9c5frtleqdd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzmzNkxGXd9CXIqkQkYlhIMIHKnu0BTzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956406982456-gt2h8dq3mhe2fatugamc9c5frtleqdd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
