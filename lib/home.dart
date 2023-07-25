@@ -44,7 +44,7 @@ class _HomeState extends State<Home> {
           child: GestureDetector(
             onTap: () async {
               await signInWithGoogle();
-              if (mounted) {
+              if (mounted) { 
                 Navigator.push(context,
                     MaterialPageRoute(builder: (context) => const ProfilePage(),),);
               }
